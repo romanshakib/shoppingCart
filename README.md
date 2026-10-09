@@ -6,7 +6,7 @@ A modern, responsive, and fully functional shopping cart application built with 
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
  
-**🔗 Live Demo:** [https://startling-beijinho-72802b.netlify.app/](https://startling-beijinho-72802b.netlify.app/) *(reference design)*
+**🔗 Live Demo:** [https://shopping-cart-application-sand.vercel.app/](https://shopping-cart-application-sand.vercel.app/)
 **📦 Repository:** `https://github.com/<your-username>/<your-repo-name>`
  
 ---
@@ -63,7 +63,7 @@ This project delivers a seamless shopping experience through a clean UI, central
 | Hooks             | `useState`, `useEffect`, custom hooks |
 | Styling           | CSS3 (Flexbox & Grid, media queries) |
 | Data              | Mock product data (`/data`)        |
-| Deployment        | Netlify                            |
+| Deployment        | Vercel                             |
  
 > 💡 You can swap the Context API for **Redux Toolkit** without changing the UI components; the cart logic is isolated behind a single hook.
  
